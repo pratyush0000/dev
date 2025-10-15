@@ -1,3 +1,3 @@
 # Table of contents
 
-* [API](README.md)
+* [README](README.md)
